@@ -1,14 +1,14 @@
 # Site settings
-baseURL = https://misha-aggarwal.netlify.app/
+baseURL = "https://misha-aggarwal.netlify.app/"
 languageCode = "en-us"
-title = "Portfolio Website"
+title = "Portfolio website for Misha Aggarwal"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 
 # Enter your disqus shortname to enable comments
-disqusShortname = ""
+#disqusShortname = ""
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source)
@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Misha Aggarwal"
-  description = "Computer Engineer enthusiastically engaged in looking to venture into the field of Business Analytics by learning more with my time at LBS."
+  description = "This is my website for applied statistics."
 
   # Link custom assets relative to /static
   custom_css = []
@@ -81,8 +81,8 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Misha Aggarwal"
-    subtitle = "Computer Engineer\n Yoga Instructor."
+    title = "Hi, my name is Misha"
+    #subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
 
@@ -176,18 +176,18 @@ disqusShortname = ""
 
     [[params.contact.phone]]
     title = "Phone"
-    phone = "(+44) 744-264-6089"
+    phone = "+447442646089"
 
     [[params.contact.address]]
-    title = "Address"
-    street = "Flat 66, Clarence Gate Gardens"
+    title = "Flat 66"
+    street = "Clarence Gate Gardens"
     city = "London, NW1 6QR"
-    country = "England"
+    country = "london"
 
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Company Name"
+    copyright = ""
 
     # Uses font awesome icons
     [[params.footer.social]]
