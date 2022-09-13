@@ -138,9 +138,8 @@ googleAnalytics = ""
   # Section Type Two
   [params.two]
     enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Love to socialise and explore new cafes. Current student at LBS completing masters in Business and Analytics. Born and brough-up in India. 
+    title = "Learn more about me"
+    subtitle = """Love to socialise and explore new cafes. Current student at LBS completing masters in Business and Analytics. Born and brough-up in India. 
     A certified yoga instructor and an active practioner.Looking forward to travel and explore my passions and interest!"""
     buttonText = "Get Started"
     url = "blogs"
