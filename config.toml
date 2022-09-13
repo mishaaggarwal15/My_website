@@ -107,25 +107,25 @@ googleAnalytics = ""
       title = "Biden Voting analysis"
       subtitle = "Learn more about the my analysis of Biden's Voting results"
       image = "pic03.jpg"
-      url = "content/blogs/Biden_voting"
+      url = "blogs/Biden_voting"
 
     [[params.tiles.showcase]]
-      title = "Ipsum"
-      subtitle = "Nisl Sed Aliquam"
+      title = "IMDB Movies Analysis"
+      subtitle = "Learn more about the Tim Burton and Steven Spielberg"
       image = "pic04.jpg"
       url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Consequat"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic05.jpg"
-      url = "blogs/ipsum"
+#    [[params.tiles.showcase]]
+#      title = "Consequat"
+#      subtitle = "Ipsum Dolor Sit Amet"
+#      image = "pic05.jpg"
+#      url = "blogs/ipsum"
 
-    [[params.tiles.showcase]]
-      title = "Etiam"
-      subtitle = "Feugiat Amet Tempus"
-      image = "pic06.jpg"
-      url = "blogs/ipsum"
+#    [[params.tiles.showcase]]
+#      title = "Etiam"
+#      subtitle = "Feugiat Amet Tempus"
+#      image = "pic06.jpg"
+#      url = "blogs/ipsum"
     # You can make more showcases by copy and pasting the code above
 
   [params.blog]
