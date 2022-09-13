@@ -105,7 +105,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Biden Voting analysis"
-      subtitle = "Lorem Etiam Nullam"
+      subtitle = "Learn more about the my analysis of Biden's Voting results"
       image = "pic03.jpg"
       url = "blogs/Biden_voting"
 
