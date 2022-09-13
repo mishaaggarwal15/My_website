@@ -37,7 +37,7 @@ googleAnalytics = ""
 
   # Navigation Section
   [params.navigation]
-    title = "Misha's"
+    title = "Home"
     subtitle = "Portfolio Website"
     menu = "Menu"
     # Optional logo as brand stored in img/
@@ -94,7 +94,7 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Aliquam"
       subtitle = "Ipsum Dolor Sit Amet"
-      image = "banner.jpg"
+      image = "pic01.jpg"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
