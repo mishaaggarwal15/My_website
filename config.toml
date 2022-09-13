@@ -99,7 +99,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "CV"
-      subtitle = "My Professional Journery"
+      subtitle = "My Professional Journey"
       image = "pic02.jpg"
       url = "blogs/tempus"
 
