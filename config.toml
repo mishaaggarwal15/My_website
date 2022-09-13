@@ -192,7 +192,7 @@ googleAnalytics = ""
     # Uses font awesome icons
     [[params.footer.social]]
       icon = "fa-twitter"
-      url= "https://www.twitter.com"
+      url= "https://twitter.com/MishaAggarwal15"
       label = "Twitter"
 
     [[params.footer.social]]
