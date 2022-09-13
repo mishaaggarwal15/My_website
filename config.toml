@@ -104,10 +104,10 @@ googleAnalytics = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Magna"
+      title = "Biden Voting analysis"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
-      url = "blogs/magna"
+      url = "blogs/Biden_voting"
 
     [[params.tiles.showcase]]
       title = "Ipsum"
