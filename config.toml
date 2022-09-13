@@ -95,7 +95,7 @@ googleAnalytics = ""
       title = "About me"
       subtitle = "Learn more about me"
       image = "pic01.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/About_me"
 
     [[params.tiles.showcase]]
       title = "CV"
