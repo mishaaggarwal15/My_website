@@ -170,6 +170,7 @@ googleAnalytics = ""
     [[params.contact.email]]
     title = "Email"
     email = "maggarwal.mam2023@london.edu"
+    url = "https://formspree.io/f/mzbwdnpd"
 
     [[params.contact.phone]]
     title = "Phone"
