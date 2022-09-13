@@ -139,8 +139,8 @@ googleAnalytics = ""
   [params.two]
     enable = true
     title = "Learn more about me"
-    subtitle = """Love to socialise and explore new cafes. Current student at LBS completing masters in Business and Analytics. Born and brough-up in India. 
-    A certified yoga instructor and an active practioner.Looking forward to travel and explore my passions and interest!"""
+    subtitle = """Love to socialise and explore new cafes. Current student at LBS completing masters in Business and Analytics. Born and brought-up in India. 
+    A certified yoga instructor and an active practioner. Looking forward to travel around Europe and explore my passions and interest!"""
     buttonText = "Get Started"
     url = "blogs"
 
