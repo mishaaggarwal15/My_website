@@ -107,7 +107,7 @@ googleAnalytics = ""
       title = "Biden voting analysis"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
-      url : blogs/Biden_voting
+      url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "Ipsum"
