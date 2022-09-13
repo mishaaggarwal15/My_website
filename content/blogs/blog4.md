@@ -13,9 +13,8 @@ draft: false
 ## Intro
 
 Hi, I am Misha Aggarwal. I was born on 11th May, 2000 in a city in Punjab, India. 
----
-image: pic071.jpg
----
+
+image: "static/img/blogs/pic071.jpg""
 Image of the place I spent most of the time in.
 
 My top favourite things include:
