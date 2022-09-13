@@ -92,7 +92,7 @@ googleAnalytics = ""
     # Display your showcases here.
     
     [[params.tiles.showcase]]
-      title = "blog me"
+      title = "About me"
       subtitle = "Learn more about me"
       image = "pic01.jpg"
       url = "blogs/aliquam"
@@ -104,10 +104,10 @@ googleAnalytics = ""
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
-      title = "Biden voting analysis"
+      title = "Magna"
       subtitle = "Lorem Etiam Nullam"
       image = "pic03.jpg"
-      url = "blogs/Biden_voting"
+      url = "blogs/magna"
 
     [[params.tiles.showcase]]
       title = "Ipsum"
