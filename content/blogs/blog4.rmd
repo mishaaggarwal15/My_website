@@ -16,11 +16,6 @@ Hi, I am Misha Aggarwal. I was born on 11th May, 2000 and have spent most of my 
 
 
 
-```{r xyz, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("static/img/blogs", "sf_2.jpeg"), error = FALSE)
-```
-
-
 Tops things to know about me:
 * Love to do yoga and mediate 
 * Visit aesthetic cafes and try different cuisines
