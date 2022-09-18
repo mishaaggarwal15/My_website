@@ -14,7 +14,8 @@ draft: false
 
 Hi, I am Misha Aggarwal. I was born on 11th May, 2000 and have spent most of my time growing up in Ludhiana, biggest city of Punjab, India. Cool fact about my city is that it is known as the Manchester of India due to it's famous appeals industry. 
 
-
+!["hello"](https://www.parkgrandlancastergate.co.uk/blog/wp-content/uploads/2019/07/green-park.jpg)
+Picture of my favorite park
 
 Tops things to know about me:
 * Love to do yoga and mediate 
@@ -30,4 +31,5 @@ My six months tenure at Bain was primarily focused on working for two things: Ca
 Now at LBS, I am reading for Masters in Analytics and Management to expose myself more towards the implementation of automation in Business world. My current goal is to learn the best of both tech and business and explore what the year at LBS holds for me! 
 
 
-
+!["My favourite place in LBS"](https://smapse.com/storage/2019/01/lbs-campus-2.jpg)
+The most aesthetic place in LBS
