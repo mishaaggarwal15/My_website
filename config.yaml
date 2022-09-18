@@ -7,9 +7,8 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    #subtitle: |-
-    #  A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
-    #  AND RELEASED UNDER THE CREATIVE COMMONS.
+    subtitle: |-
+      Currently interested in learning how judcious use of data can change the world.
     title: Misha's Portfolio Website
   blog: {}
   contact:
@@ -80,7 +79,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: backround_sunset.jpg
+      - image: pic01.jpg
         subtitle: I love sunsets
         title: About me
         url: blogs/About_Misha
