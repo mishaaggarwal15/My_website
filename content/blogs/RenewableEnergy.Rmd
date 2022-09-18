@@ -46,7 +46,7 @@ library(gganimate)
 library(infer)
 ```
 
-# Challenge 2: Share of renewable energy production in the world
+# Share of renewable energy production in the world
 
 The following is a description of the variables of the Cross-country Historical Adoption of Technology (CHAT) dataset.
 
@@ -101,7 +101,7 @@ countries <-  wb_cachelist$countries %>%
 
 ```
 
-First, produce a graph with the countries with the highest and lowest % contribution of renewables in energy production. This is made up of `elec_hydro`, `elec_solar`, `elec_wind`, and `elec_renew_other`. You may want to use the *patchwork* package to assemble the two charts next to each other.
+First, producing a graph with the countries with the highest and lowest % contribution of renewables in energy production. This is made up of `elec_hydro`, `elec_solar`, `elec_wind`, and `elec_renew_other`. Using the *patchwork* package to assemble the two charts next to each other.
 
 ```{r min-max_renewables, echo=FALSE, out.width="100%", fig.width = 10.3, fig.height = 5.5}
 
