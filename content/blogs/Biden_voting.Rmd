@@ -11,9 +11,6 @@ keywords: ""
 slug: "Biden_voting" # slug is the shorthand URL address... no spaces plz
 title: Biden Voting Analysis
 ---
-  
-
-
 
 ```{r, setup, echo=FALSE}
 knitr::opts_chunk$set(
@@ -49,21 +46,18 @@ library(gganimate)
 
 Biden Approval Margins
 
-As we saw in class, fivethirtyeight.com has detailed data on [all polls
-that track the president's
-approval](https://projects.fivethirtyeight.com/biden-approval-ratings)
+Website fivethirtyeight.com has detailed data on [all polls that track the president's-approval](https://projects.fivethirtyeight.com/biden-approval-rating/)
 
 ```{r, cache=TRUE}
 # Import approval polls data directly off fivethirtyeight website
 approval_polllist <- read_csv('https://projects.fivethirtyeight.com/biden-approval-data/approval_polllist.csv') 
 glimpse(approval_polllist)
-
-# Use `lubridate` to fix dates, as they are given as characters.
 ```
 
 #code
 
 ```{r Plot for Biden approval rate}
+# Using `lubridate` to fix dates, as they are given as characters.
 approval_polllist %>% 
   #convert end-date into "date" format:
   mutate(date_poll = mdy(enddate)) %>% 
@@ -95,4 +89,3 @@ approval_polllist %>%
        y = NULL)
   #year only 2022
 ```
-
