@@ -81,13 +81,17 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: I love sunsets
+        subtitle: Learn more about me
         title: About me
         url: blogs/About_Misha
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: My Professional Journey
+        title: CV
+        url: blogs/MY_CV
+      - image: cv.png
+        subtitle:         
+        title: My CV
+        url: docs/MishaAggarwal.pdf
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
