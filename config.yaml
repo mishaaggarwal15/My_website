@@ -93,7 +93,7 @@ params:
       - image: pic11.png
         subtitle: Biden's approval rating in 2022 in the US
         title: Biden Votting
-        url: blogs/"Biden_voting""
+        url: blogs/Biden_voting
       
       - image: pic004.jpeg
         subtitle: Identifying the share of renewable energy production across the world
