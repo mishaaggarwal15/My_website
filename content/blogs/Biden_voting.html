@@ -18,6 +18,7 @@ title: Biden Voting Analysis
 <p>Website fivethirtyeight.com has detailed data on <a href="https://projects.fivethirtyeight.com/biden-approval-rating/">all polls that track the president’s-approval</a></p>
 <pre class="r"><code># Import approval polls data directly off fivethirtyeight website
 approval_polllist &lt;- read_csv(&#39;https://projects.fivethirtyeight.com/biden-approval-data/approval_polllist.csv&#39;) 
+#View the data
 glimpse(approval_polllist)</code></pre>
 <pre><code>## Rows: 4,569
 ## Columns: 22
@@ -43,7 +44,7 @@ glimpse(approval_polllist)</code></pre>
 ## $ question_id         &lt;dbl&gt; 139491, 139395, 139404, 139394, 139492, 139570, 13…
 ## $ createddate         &lt;chr&gt; &quot;1/28/2021&quot;, &quot;1/22/2021&quot;, &quot;1/22/2021&quot;, &quot;1/22/2021&quot;…
 ## $ timestamp           &lt;chr&gt; &quot;14:51:31 18 Sep 2022&quot;, &quot;14:51:31 18 Sep 2022&quot;, &quot;1…</code></pre>
-<p>#code</p>
+<p>Analysis of the approval rate</p>
 <pre class="r"><code># Using `lubridate` to fix dates, as they are given as characters.
 approval_polllist %&gt;% 
   #convert end-date into &quot;date&quot; format:

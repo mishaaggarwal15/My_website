@@ -51,10 +51,11 @@ Website fivethirtyeight.com has detailed data on [all polls that track the presi
 ```{r, cache=TRUE}
 # Import approval polls data directly off fivethirtyeight website
 approval_polllist <- read_csv('https://projects.fivethirtyeight.com/biden-approval-data/approval_polllist.csv') 
+#View the data
 glimpse(approval_polllist)
 ```
 
-#code
+Analysis of the approval rate
 
 ```{r Plot for Biden approval rate}
 # Using `lubridate` to fix dates, as they are given as characters.
