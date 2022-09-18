@@ -83,7 +83,7 @@ params:
       - image: backround_sunset.jpg
         subtitle: I love sunsets
         title: About me
-        url: blogs/aliquam
+        url: blogs/About_me
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
