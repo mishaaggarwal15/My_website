@@ -3,12 +3,12 @@ categories:
 - ""  
 - ""
 date: "`r Sys.Date()`"
-description: Biden Voting Analysis 
+description: Biden Voting Analysis # the title that will show up once someone gets to this page
 draft: false
-image: pic11.png 
+image: pic11.png # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
-slug: "Biden_voting" 
+slug: "Biden_voting" # slug is the shorthand URL address... no spaces plz
 title: Biden Voting Analysis
 ---
 
