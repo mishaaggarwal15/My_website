@@ -3,7 +3,7 @@ categories:
 - ""  
 - ""
 date: "`r Sys.Date()`"
-description: Biden Voting Analysis # the title that will show up once someone gets to this page
+description: Renewable Energy Production Analysis # the title that will show up once someone gets to this page
 draft: false
 image: pic004.png # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
