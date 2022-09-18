@@ -84,26 +84,27 @@ params:
         subtitle: Learn more about me
         title: About me
         url: blogs/About_Misha
+        
       - image: pic02.jpg
         subtitle: My Professional Journey
         title: CV
-        url: blogs/MY_CV
-      - image: cv.png
-        subtitle:         
-        title: My CV
         url: docs/MishaAggarwal.pdf
+      
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
         title: Magna
         url: blogs/magna
+      
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
+     
       - image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
+     
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
