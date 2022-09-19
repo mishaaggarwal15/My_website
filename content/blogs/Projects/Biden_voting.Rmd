@@ -88,5 +88,5 @@ approval_polllist %>%
        subtitle = "Weekly Data Approve - Disapprove, %",
        x = "Week in 2022", 
        y = NULL)
-  #year only 2022
 ```
+Year 2020 only

@@ -194,5 +194,4 @@ co2_percap_joined %>%
   scale_x_continuous(labels = scales::percent_format()) +
   theme_bw() +
   theme(legend.position = "none")
-
 ```
