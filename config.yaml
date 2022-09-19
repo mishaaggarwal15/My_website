@@ -105,10 +105,6 @@ params:
         title: GDP components over time and among countries
         url: blogs/GDP_Comp
      
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
