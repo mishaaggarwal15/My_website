@@ -100,10 +100,10 @@ params:
         title: Renewable Energy
         url: blogs/Renewable_Energy
      
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
+      - image: pic_gdp.png
+        subtitle: Comparison of GDP components across world
+        title: GDP components over time and among countries
+        url: blogs/GDP_Comp
      
       - image: pic06.jpg
         subtitle: Feugiat Amet Tempus
