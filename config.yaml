@@ -105,6 +105,11 @@ params:
         title: GDP components over time and among countries
         url: blogs/Projects/GDP_Comp
      
+      - image: pic_gdp.png
+        subtitle: Comparison of GDP components across world
+        title: GDP components over time and among countries
+        url: blogs/Projects/Bike_rent
+       
   two:
     buttonText: Get Started
     enable: yes
