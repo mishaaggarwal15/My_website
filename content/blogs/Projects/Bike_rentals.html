@@ -39,7 +39,6 @@ bike &lt;- bike0 %&gt;%
   mutate (year = year(day),
           month = lubridate::month(day, label = TRUE),
           week = isoweek(day))</code></pre>
-<p><img src="../../../images/tfl_distributions_monthly.png" width="100%" style="display: block; margin: auto;" /></p>
 <pre class="r"><code># Find the expected monthly rental from 2016 to 2019
 expected_mean &lt;- bike %&gt;% 
   filter(year %in% 2016:2019) %&gt;% 

@@ -71,10 +71,6 @@ bike <- bike0 %>%
 
 ```
 
-```{r tfl_month_year_grid, echo=FALSE, out.width="100%"}
-knitr::include_graphics(here::here("images", "tfl_distributions_monthly.png"), error = FALSE)
-```
-
 ```{r graph1, fig.height = 4, fig.width = 9}
 
 # Find the expected monthly rental from 2016 to 2019
