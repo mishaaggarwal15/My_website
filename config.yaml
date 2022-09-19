@@ -70,10 +70,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+      - name: Projects
+        url: blogs/Projects
+#     - name: Elements
+#        url: elements.html
     menu: Menu
     #subtitle: Misha's Portfolio Website
     title: Misha's Portfolio Website
@@ -93,17 +93,17 @@ params:
       - image: pic011.png
         subtitle: Biden's approval rating in 2022 in the US
         title: Biden Votting
-        url: blogs/Biden_voting
+        url: blogs/Projects/Biden_voting
       
       - image: pic004.jpeg
         subtitle: Identifying the share of renewable energy production across the world
         title: Renewable Energy
-        url: blogs/Renewable_Energy
+        url: blogs/Projects/Renewable_Energy
      
       - image: pic_gdp.png
         subtitle: Comparison of GDP components across world
         title: GDP components over time and among countries
-        url: blogs/GDP_Comp
+        url: blogs/Projects/GDP_Comp
      
   two:
     buttonText: Get Started
