@@ -3,14 +3,16 @@ categories:
 - ""  
 - ""
 date: "`r Sys.Date()`"
-description: Analysis of bikes rates over a period of time # the title that will show up once someone gets to this page
+description: Analysis of bikes rates over a period of time
 draft: false
-image: pic11.png # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: TFL_project.jpeg
 
 keywords: ""
-slug: "Bike_rent" # slug is the shorthand URL address... no spaces plz
+
+slug: "Bike_rent"
 title: Excess rentals in TfL bike sharing
 ---
+
 ```{r, setup, include=FALSE}
 knitr::opts_chunk$set(
   message = FALSE, 

@@ -105,9 +105,9 @@ params:
         title: GDP components over time and among countries
         url: blogs/Projects/GDP_Comp
      
-      - image: pic_gdp.png
-        subtitle: Comparison of GDP components across world
-        title: GDP components over time and among countries
+      - image: TFL_project.jpeg
+        subtitle: Analysis of bikes rates over a period of time
+        title: Bike rates over different periods of time
         url: blogs/Projects/Bike_rent
        
   two:
