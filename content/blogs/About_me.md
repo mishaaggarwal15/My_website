@@ -27,9 +27,7 @@ Tops things to know about me:
 
 ![""](https://theplan.it/awardsContest/2019/Education/3194/1_Thapar_Student_Residencies.jpg)
 
-In terms of my career, I have recently completed my Bachelors of Engineering in Computer Science with my Major as Data Science. As part of my studies I took up an internship with Bain in the Consumer Products and Retail segment as a Business Analytics. 
-
-My six months tenure at Bain was primarily focused on working for two things: Capability Building project for one of the largest tea manufacturers in the world and support in piloting the 1st ever ESG promoting product in CP practices.
+In terms of my career, I have recently completed my Bachelors of Engineering in Computer Science with my Major as Data Science. As part of my studies I took up an internship with Bain in the Consumer Products and Retail segment as a Business Analytics. My six months tenure at Bain was primarily focused on working for two things: Capability Building project for one of the largest tea manufacturers in the world and support in piloting the 1st ever ESG promoting product in CP practices.
  
 Now at LBS, I am reading for Masters in Analytics and Management to expose myself more towards the implementation of automation in Business world. My current goal is to learn the best of both tech and business and explore what the year at LBS holds for me! 
 
