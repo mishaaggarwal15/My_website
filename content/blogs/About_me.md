@@ -24,7 +24,7 @@ Tops things to know about me:
 * Visit aesthetic cafes and try different cuisines
 * Shopping and letting my closet overflow 
 
-![""](https://images.adsttc.com/media/images/5bf3/8ff2/08a5/e546/9600/0308/newsletter/4428-77.jpg?1542688737)
+![""](https://theplan.it/awardsContest/2019/Education/3194/1_Thapar_Student_Residencies.jpg)
 
 In terms of my career, I have recently completed my Bachelors of Engineering in Computer Science with my Major as Data Science. As part of my studies I took up an internship with Bain in the Consumer Products and Retail segment as a Business Analytics. 
 
