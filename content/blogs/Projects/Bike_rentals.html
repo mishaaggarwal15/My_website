@@ -2,7 +2,7 @@
 categories:  
 - ""  
 - ""
-date: "2022-09-19"
+date: "2022-09-20"
 description: Analysis of bikes rates over a period of time
 draft: false
 image: TFL_project.jpeg
@@ -76,7 +76,7 @@ joined_bike %&gt;%
   theme(legend.position = &quot;none&quot;)+
   theme_minimal()</code></pre>
 <p><img src="/blogs/Projects/Bike_rentals_files/figure-html/graph1-1.png" width="864" style="display: block; margin: auto;" /></p>
-<p>The second one looks at percentage changes from the expected level of weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks 14-26) and Q4 (weeks 40-52).</p>
+<p>Now we try to look at percentage changes from the expected level of weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks 14-26) and Q4 (weeks 40-52).</p>
 <pre class="r"><code># Find the expected weekly rental from 2016 to 2019
 expected_weekly &lt;- bike %&gt;% 
   filter(year %in% 2016:2019) %&gt;% 
@@ -127,12 +127,5 @@ pct_change %&gt;%
   theme(legend.position = &quot;none&quot;)+
   theme_minimal()</code></pre>
 <p><img src="/blogs/Projects/Bike_rentals_files/figure-html/graph2-1.png" width="864" style="display: block; margin: auto;" /></p>
-<p>For both of these graphs, you have to calculate the expected number of rentals per week or month between 2016-2019 and then, see how each week/month of 2020-2022 compares to the expected rentals. Think of the calculation <code>excess_rentals = actual_rentals - expected_rentals</code>.</p>
-<blockquote>
-<p>Should you use the mean or the median to calculate your expected rentals? Why?</p>
-</blockquote>
-<p>As the data under investigation follows a normal distribution, we should use the mean to calculate the expected values. The median would be more applicable if we were working with a skewed distribution, as this would distort the mean.</p>
-</div>
-<div id="section" class="section level1">
-<h1></h1>
+<p>When considering about the usage of mean or median to calculate the expected rentals we should use the mean since the data under investigation follows a normal distribution. Therefore, the median of the data would be more applicable if we were working with a skewed distribution, as this would distort the mean.</p>
 </div>

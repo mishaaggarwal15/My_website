@@ -30,7 +30,7 @@ knitr::opts_chunk$set(
 ```
 
 ```{r load-libraries, include=FALSE}
-library(tidyverse)  # Load ggplot2, dplyr, and all the other tidyverse packages
+library(tidyverse)  
 library(mosaic)
 library(ggthemes)
 library(lubridate)
@@ -112,7 +112,7 @@ joined_bike %>%
 
 ```
 
-The second one looks at percentage changes from the expected level of weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks 14-26) and Q4 (weeks 40-52).
+Now we try to look at percentage changes from the expected level of weekly rentals. The two grey shaded rectangles correspond to Q2 (weeks 14-26) and Q4 (weeks 40-52).
 
 ```{r graph2,warning=FALSE, fig.height = 5, fig.width = 9}
 
@@ -168,10 +168,4 @@ pct_change %>%
 
 ```
 
-For both of these graphs, you have to calculate the expected number of rentals per week or month between 2016-2019 and then, see how each week/month of 2020-2022 compares to the expected rentals. Think of the calculation `excess_rentals = actual_rentals - expected_rentals`.
-
-> Should you use the mean or the median to calculate your expected rentals? Why?
-
-As the data under investigation follows a normal distribution, we should use the mean to calculate the expected values. The median would be more applicable if we were working with a skewed distribution, as this would distort the mean.
-
-# 
+When considering about the usage of mean or median to calculate the expected rentals we should use the mean since the data under investigation follows a normal distribution. Therefore, the median of the data would be more applicable if we were working with a skewed distribution, as this would distort the mean.
